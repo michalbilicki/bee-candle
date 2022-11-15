@@ -1,9 +1,10 @@
-import { AppWrapper, Logo } from './App.styles.js'
-import beeCandleLogo from 'assets/bee-candle-logo.png'
+import { AppWrapper } from './App.styles.js'
+// import beeCandleLogo from 'assets/bee-candle-logo.png'
 
 const App = () => (
   <AppWrapper>
-    <Logo src={beeCandleLogo} alt="Bee with the project name" />
+    {/* <Logo src={beeCandleLogo} alt="Bee with the project name" /> */}
+    Bee Candle
   </AppWrapper>
 )
 

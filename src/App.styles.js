@@ -8,9 +8,9 @@ export const AppWrapper = styled.div`
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: black;
 `
 
-export const Logo = styled.img`
-  width: 16rem;
-`
+// export const Logo = styled.img`
+//   width: 16rem;
+// `
