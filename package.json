@@ -1,7 +1,7 @@
 {
   "name": "bee-candle",
   "version": "0.1.0",
-  "homepage": "https://michalbilicki.github.io/bee-candle",
+  "homepage": "https://bee-candle.pl",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
