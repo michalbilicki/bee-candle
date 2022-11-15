@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bee-candle/static/css/main.e6c13ad2.css",
-    "main.js": "/bee-candle/static/js/main.7ddee13d.js",
-    "static/js/787.c51cbe7a.chunk.js": "/bee-candle/static/js/787.c51cbe7a.chunk.js",
-    "static/media/bee-candle-logo.png": "/bee-candle/static/media/bee-candle-logo.f47b956d52909ef4cdc3.png",
-    "index.html": "/bee-candle/index.html",
-    "main.e6c13ad2.css.map": "/bee-candle/static/css/main.e6c13ad2.css.map",
-    "main.7ddee13d.js.map": "/bee-candle/static/js/main.7ddee13d.js.map",
-    "787.c51cbe7a.chunk.js.map": "/bee-candle/static/js/787.c51cbe7a.chunk.js.map"
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.9a5b4ed7.js",
+    "static/js/787.c51cbe7a.chunk.js": "/static/js/787.c51cbe7a.chunk.js",
+    "static/media/bee-candle-logo.png": "/static/media/bee-candle-logo.f47b956d52909ef4cdc3.png",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.9a5b4ed7.js.map": "/static/js/main.9a5b4ed7.js.map",
+    "787.c51cbe7a.chunk.js.map": "/static/js/787.c51cbe7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.7ddee13d.js"
+    "static/js/main.9a5b4ed7.js"
   ]
 }
