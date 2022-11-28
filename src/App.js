@@ -1,11 +1,10 @@
-import { AppWrapper } from './App.styles.js'
-// import beeCandleLogo from 'assets/bee-candle-logo.png'
+import { RoutesComponent } from 'routes'
+import { BrowserRouter as Router } from 'react-router-dom'
 
 const App = () => (
-  <AppWrapper>
-    {/* <Logo src={beeCandleLogo} alt="Bee with the project name" /> */}
-    Bee Candle
-  </AppWrapper>
+  <Router>
+    <RoutesComponent />
+  </Router>
 )
 
 export default App
